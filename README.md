@@ -10,7 +10,8 @@ Ich bin derzeit in der Ausbildung und arbeite daran, meine Fähigkeiten als Entw
   - Python  
   - JavaScript  
   - HTML  
-  - CSS  
+  - CSS
+  - Tailwind
 
 - **Frameworks und Bibliotheken**:  
   - React  
