@@ -16,7 +16,7 @@ Ich bin derzeit in der Ausbildung und arbeite daran, meine Fähigkeiten als Entw
 - **Frameworks und Bibliotheken**:  
   - React  
   - Flask  
-
+  - NextJs
 - **Datenbanken**:  
   - MySQL  
   - MongoDB  
