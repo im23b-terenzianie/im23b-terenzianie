@@ -17,6 +17,7 @@ Ich bin derzeit in der Ausbildung und arbeite daran, meine Fähigkeiten als Entw
   - React  
   - Flask  
   - NextJs
+
 - **Datenbanken**:  
   - MySQL  
   - MongoDB  
