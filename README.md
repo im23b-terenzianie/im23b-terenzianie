@@ -22,6 +22,4 @@ Ich bin derzeit in der Ausbildung und arbeite daran, meine Fähigkeiten als Entw
   - MySQL  
   - MongoDB  
 
-### 🌱 Ziele
-Ich möchte meine Kenntnisse in der Softwareentwicklung weiter vertiefen und an spannenden Projekten mitwirken, um praktische Erfahrungen zu sammeln. Besonders interessiert bin ich an Full-Stack-Entwicklung und datengetriebenen Anwendungen.
 
